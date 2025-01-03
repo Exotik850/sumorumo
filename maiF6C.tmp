@@ -8,11 +8,6 @@
 [node name="Player" parent="." instance=ExtResource("1_jycpo")]
 position = Vector2(542, 296)
 speed = 150
-acceleration = 800
-friction = 600
-dash_speed = 500
-dash_duration = 0.2
-dash_cooldown = 1.0
 
 [node name="RigidBody2D" parent="." instance=ExtResource("2_r4oqn")]
 position = Vector2(571, 297)
